@@ -9,12 +9,12 @@ export default siteConfig({
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Calebs Portfolio & Insights',
+  name: 'CalebWay.io',
   domain: 'calebway.io',
   author: 'Caleb Way',
 
   // open graph metadata (optional)
-  description: 'Professional Insights and Portfolio',
+  description: 'CalebWay.io - Professional Insights and Portfolio',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
@@ -55,7 +55,7 @@ export default siteConfig({
   navigationLinks: [
      {
        title: 'About',
-       pageId: '1e98753bccb281ccb89dd92d3ed2d2fa'
+       pageId: '1ea8753bccb28053ba88c146a0996357'
      },
      {
        title: 'Contact',
