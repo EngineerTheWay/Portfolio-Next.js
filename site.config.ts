@@ -14,7 +14,7 @@ export default siteConfig({
   author: 'Caleb Way',
 
   // open graph metadata (optional)
-  description: 'CalebWay.io - Professional Insights and Portfolio',
+  description: 'CalebWay.io - Professional Portfolio',
 
   // social usernames (optional)
   //twitter: 'transitive_bs',
