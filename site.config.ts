@@ -58,7 +58,7 @@ export default siteConfig({
        pageId: '1e98753bccb28002919e000c1e1c5d2d'
      },
      {
-       title: 'Insights',
+       title: 'Insights'
        pageId: '1e98753bccb281b28b62000c4bddd81d'
      }
    ]
