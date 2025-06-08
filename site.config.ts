@@ -51,14 +51,14 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
   //navigationStyle: 'default'
-  navigationStyle: 'custom',
+  navigationStyle: 'default',
   navigationLinks: [
      {
        title: 'Projects',
        pageId: '1e98753bccb28002919e000c1e1c5d2d'
      },
      {
-       title: 'Insights'
+       title: 'Insights',
        pageId: '1e98753bccb281b28b62000c4bddd81d'
      }
    ]
