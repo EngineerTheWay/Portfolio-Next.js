@@ -21,7 +21,8 @@ export default siteConfig({
   github: 'engineertheway',
   linkedin: 'waycaleb',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  newsletter: 'mailto:contact@calebway.io', // optional newsletter URL
+  // newsletter: 'mailto:contact@calebway.io', // optional newsletter URL
+  email: 'mailto:contact@calebway.io', // email
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
