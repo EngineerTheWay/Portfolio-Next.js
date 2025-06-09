@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'engineertheway',
   linkedin: 'waycaleb',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  newsletter: 'contact@calebway.io', // optional newsletter URL
+  newsletter: 'mailto:contact@calebway.io', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -51,7 +51,7 @@ export default siteConfig({
   // whether to use the default notion navigation style or a custom one with links to
   // important pages. To use `navigationLinks`, set `navigationStyle` to `custom`.
   //navigationStyle: 'default'
-  navigationStyle: 'default',
+  navigationStyle: 'custom',
   navigationLinks: [
      {
        title: 'Projects',
