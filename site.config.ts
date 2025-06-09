@@ -21,7 +21,7 @@ export default siteConfig({
   github: 'engineertheway',
   linkedin: 'waycaleb',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
-  // newsletter: 'contact@calebway.io', // optional newsletter URL
+  newsletter: 'contact@calebway.io', // optional newsletter URL
   // youtube: '#', // optional youtube channel name or `channel/UCGbXXXXXXXXXXXXXXXXXXXXXX`
 
   // default notion icon and cover images for site-wide consistency (optional)
@@ -55,11 +55,11 @@ export default siteConfig({
   navigationLinks: [
      {
        title: 'Projects',
-       pageId: '1e98753bccb28002919e000c1e1c5d2d'
+       pageId: '20c8753bccb280f189c1ed9d368f6322'
      },
      {
        title: 'Insights',
-       pageId: '1e98753bccb281b28b62000c4bddd81d'
+       pageId: '20c8753bccb2801ead00d94c1f3e1018'
      }
    ]
 })
